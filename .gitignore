@@ -1,0 +1,12 @@
+# Ignore IDE settings
+.idea
+
+# Ignore configuration file
+/config.php
+
+# Ignore Composer files
+/vendor/
+
+# Ignore user data, except .example files
+/data/*
+!/data/*.example

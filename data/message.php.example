@@ -1,0 +1,13 @@
+<html>
+<body>
+<p>Hello <?php echo $firstName . ' ' . $lastName; ?>,</p>
+
+<p>Welcome to our platform. Here are your credentials:</p>
+<ul>
+    <li>Username: <?php echo $email; ?></li>
+    <li>Password: <?php echo $password; ?></li>
+</ul>
+
+<p>Best regards,<br>Your Company</p>
+</body>
+</html>
